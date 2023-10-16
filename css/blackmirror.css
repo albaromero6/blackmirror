@@ -1,0 +1,13 @@
+/****************************************************************/
+/*            Style sheet for Black Mirror Web Site             */
+/*                     Author: Alba Romero                      */
+/*                         Versión: 1-0                         */
+/*                   Comments: Class project                    */
+/****************************************************************/
+
+body {margin:0;padding:0;               /*Para desactivar el espacio de separación por defecto*/
+    background-color: pink;}
+
+#wrapper {background-color: #fff;
+        width:80%;                      /*Ancho fijado al 80%*/
+        margin: auto;}                  /*Centrado automático*/
